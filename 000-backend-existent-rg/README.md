@@ -1,4 +1,4 @@
-# tf-sample-000
+# 000-backend-existent-rg
 Sample with terraform for creating a backend.conf file (Azure)
 ---
 In this example, I am using an existing azure resource group and I intend to create the following resources:
